@@ -1,0 +1,9 @@
+name: BookEdit
+version: '${project.version}'
+main: com.github.ringoame196.bookedit.BookEdit
+commands:
+  bookedit:
+    description: 記入済みの本を編集する
+    usage: /bookedit <arg-1> (<arg-2>) (<arg-3>)
+    aliases:
+      - bedit
