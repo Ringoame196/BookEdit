@@ -3,7 +3,7 @@
 
 <h2>コマンド</h2>
 記入前に戻す-/bookedit undo<p>
-タイトルを変更する-/bookedit title <変更するタイトル><p>
+タイトルを変更する-/bookedit title <変更するタイトル>
 著者を変更する(OP必須)-/bookedit author <変更する著者>
 
 <h2>保護機能</h2>
