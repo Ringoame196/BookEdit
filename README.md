@@ -1,6 +1,8 @@
 # BookEdit
 記入済みの本のタイトルや著者を編集することができたり、署名前に戻せたりするプラグイン
 
+[X投稿](https://x.com/ringoame196/status/1666456227121864708?s=20)
+
 <h2>コマンド</h2>
 記入前に戻す-/bookedit undo<p>
 タイトルを変更する-/bookedit title <変更するタイトル><p>
